@@ -1,0 +1,20 @@
+{
+    "name": "iBroadcast Lights Out",
+    "frameColor": "#161616",
+    "frameTextColor": "#cccccc",
+    "backgroundColor": "#272727",
+    "textColor": "#cccccc",
+    "selectedBackgroundColor": "#555555",
+    "selectedTextColor": "#cccccc",
+    "fontName": "Poppins",
+    "mediaButtonColor": "#272727",
+    "mediaButtonTextColor": "#cccccc",
+    "buttonColor": "#272727",
+    "buttonTextColor": "#cccccc",
+    "scrollbarColor": "#272727",
+    "scrollbarTextColor": "#a2a2a2",
+    "scrollbarThickness": 0.67,
+    "spacing": 0.26,
+    "roundness": 1,
+    "flat": true
+}

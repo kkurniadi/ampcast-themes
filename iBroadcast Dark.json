@@ -1,0 +1,20 @@
+{
+    "name": "iBroadcast Dark",
+    "frameColor": "#0e192a",
+    "frameTextColor": "#cccccc",
+    "backgroundColor": "#162133",
+    "textColor": "#cccccc",
+    "selectedBackgroundColor": "#134a8e",
+    "selectedTextColor": "#cccccc",
+    "fontName": "Poppins",
+    "mediaButtonColor": "#162133",
+    "mediaButtonTextColor": "#cccccc",
+    "buttonColor": "#1d2b42",
+    "buttonTextColor": "#cccccc",
+    "scrollbarColor": "#152d4c",
+    "scrollbarTextColor": "#45638a",
+    "scrollbarThickness": 0.67,
+    "spacing": 0.26,
+    "roundness": 1,
+    "flat": true
+}
