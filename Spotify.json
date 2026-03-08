@@ -1,18 +1,36 @@
 {
     "name": "Spotify",
-    "frameColor": "#000000",
-    "frameTextColor": "#ffffff",
-    "backgroundColor": "#121212",
-    "textColor": "#ffffff",
-    "selectedBackgroundColor": "#1f1f1f",
-    "selectedTextColor": "#ffffff",
-    "mediaButtonColor": "#ffffff",
-    "mediaButtonTextColor": "#000000",
-    "buttonColor": "#1f1f1f",
-    "buttonTextColor": "#b3b3b3",
-    "scrollbarColor": "#121212",
-    "scrollbarTextColor": "#898989",
-    "scrollbarThickness": 0.67,
+    "fontName": "Arial",
+    "frame": {
+        "color": "#000000",
+        "textColor": "#ffffff"
+    },
+    "content": {
+        "color": "#121212",
+        "textColor": "#ffffff"
+    },
+    "selected": {
+        "color": "#1f1f1f",
+        "textColor": "#ffffff"
+    },
+    "button": {
+        "color": "#1f1f1f",
+        "textColor": "#b3b3b3",
+        "borderWidth": 0
+    },
+    "mediaButton": {
+        "color": "#ffffff",
+        "textColor": "#000000"
+    },
+    "scrollbar": {
+        "color": "#121212",
+        "textColor": "#898989",
+        "size": 0.67
+    },
+    "splitter": {
+        "color": "#000000",
+        "textColor": "#ffffff"
+    },
     "spacing": 0.5,
     "roundness": 1,
     "flat": true
