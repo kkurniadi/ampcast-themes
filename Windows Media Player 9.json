@@ -1,0 +1,48 @@
+{
+    "name": "Windows Media Player 9",
+    "fontName": "Tahoma",
+    "frame": {
+        "color": "#d8dff3",
+        "textColor": "#212741"
+    },
+    "content": {
+        "color": "#394472",
+        "textColor": "#ffffff"
+    },
+    "selected": {
+        "color": "#000000",
+        "textColor": "#89e116"
+    },
+    "button": {
+        "color": "#d5dcf1",
+        "textColor": "#00226b",
+        "surfaceStyle": "convex",
+        "edgeStyle": "chamfer-1",
+        "borderColor": "#e0e4f3"
+    },
+    "mediaButton": {
+        "color": "#f3f5fd",
+        "textColor": "#223b54",
+        "surfaceStyle": "convex",
+        "edgeStyle": "chamfer+1",
+        "borderColor": "#637780",
+        "borderWidth": 1,
+        "elevation": 0.1
+    },
+    "scrollbar": {
+        "color": "#c8d6fb",
+        "textColor": "#4d6185",
+        "size": 0.8,
+        "surfaceStyle": "flat",
+        "edgeStyle": "fillet+1",
+        "borderColor": "#ffffff",
+        "borderWidth": 1.6
+    },
+    "splitter": {
+        "color": "#ece9d8",
+        "textColor": "#212741"
+    },
+    "spacing": 0.33,
+    "roundness": 0.51,
+    "flat": false
+}
