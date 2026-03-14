@@ -2,7 +2,7 @@
     "name": "iBroadcast Lights Out",
     "fontName": "Poppins",
     "frame": {
-        "tolor": "#161616",
+        "color": "#161616",
         "textColor": "#cccccc"
     },
     "content": {
