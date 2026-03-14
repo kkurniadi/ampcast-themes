@@ -7,7 +7,7 @@
     },
     "content": {
         "color": "#162133",
-        "textColor": "#cccccc",
+        "textColor": "#cccccc"
     },    
     "selected": {
         "color": "#134a8e",
